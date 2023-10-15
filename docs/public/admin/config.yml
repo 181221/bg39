@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: 181221/bg39
   branch: main
 media_folder: "docs/public/media"
 public_folder: "/media"
