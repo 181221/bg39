@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   repo: 181221/bg39
   branch: main
-media_folder: "docs/public/media"
-public_folder: "/media"
+media_folder: "/docs/public/media"
+public_folder: "/docs/public"
 publish_mode: editorial_workflow
 collections:
   - label: "Home"
@@ -28,9 +28,9 @@ collections:
               - { label: "Details", name: "details", widget: "string" }
           - { label: "Footer", name: "footer", widget: "string", required: false }
           - { label: "Body", name: body, widget: markdown, required: false }
-  - label: "Post"
-    name: "posts"
-    folder: "docs/post"
+  - label: "Docs"
+    name: "docs"
+    folder: "docs"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }

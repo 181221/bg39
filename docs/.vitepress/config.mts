@@ -28,18 +28,18 @@ export default defineConfig({
     },
     nav: [
       { text: "Hjem", link: "/" },
-      { text: "Beboerguide", link: "/ny-beboer.md" },
-      { text: "Husordensregler og vedtekter", link: "/ordenogvedtekter.md" },
+      { text: "Beboerguide", link: "/innlegg/ny-beboer.md" },
+      { text: "Husordensregler og vedtekter", link: "/innlegg/ordenogvedtekter.md" },
     ],
 
     sidebar: [
       {
         text: "Beboerguide",
-        items: [{ text: "Ny beboer", link: "/ny-beboer.md" }],
+        items: [{ text: "Ny beboer", link: "/innlegg/ny-beboer.md" }],
       },
       {
         text: "Husordensregler og vedtekter",
-        items: [{ text: "Husordensregler", link: "/ordenogvedtekter" }],
+        items: [{ text: "Husordensregler", link: "/innlegg/ordenogvedtekter" }],
       },
     ],
   },
