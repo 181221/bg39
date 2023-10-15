@@ -1,3 +1,7 @@
+---
+title: Velkommen til BG39
+description: sameiet
+---
 # Velkommen til [Sameiets Navn]
 
 Vi ønsker deg hjertelig velkommen som ny beboer i [Sameiets Navn]. For å hjelpe deg med å tilpasse deg raskt og enkelt, har vi satt sammen noen nyttige opplysninger og retningslinjer.
