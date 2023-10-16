@@ -30,6 +30,7 @@ export default defineConfig({
       { text: "Hjem", link: "/" },
       { text: "Beboerguide", link: "/innlegg/ny-beboer.md" },
       { text: "Husordensregler og vedtekter", link: "/innlegg/ordenogvedtekter.md" },
+      { text: "Aktuelt", link: "/aktuelt/index.md" },
     ],
 
     sidebar: [
@@ -40,6 +41,9 @@ export default defineConfig({
       {
         text: "Husordensregler og vedtekter",
         items: [{ text: "Husordensregler", link: "/innlegg/ordenogvedtekter" }],
+      },
+      {
+        items: [{ text: "Kontakt oss", link: "/innlegg/kontakt" }],
       },
     ],
   },
