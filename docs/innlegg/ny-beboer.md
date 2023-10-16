@@ -2,6 +2,7 @@
 title: Velkommen til BG39
 description: sameiet
 ---
+
 # Velkommen til \[Sameiets Navn]
 
 Vi ønsker deg hjertelig velkommen som ny beboer i \[Sameiets Navn]. For å hjelpe deg med å tilpasse deg raskt og enkelt, har vi satt sammen noen nyttige opplysninger og retningslinjer.
@@ -14,13 +15,13 @@ Vi bruker et nøkkelsystem kalt "Unlock" for å gi tilgang til utgangsdører, bo
 
 Hvis du trenger å endre navnelappen på ringeklokken, må du også kontakte styret. Dette kan gjøres ved å sende en henvendelse til \[styrets e-postadresse] med følgende informasjon:
 
-* Ditt navn
-* Leilighetsnummer
-* Den nye navnelappen du ønsker å bruke
+- Ditt navn
+- Leilighetsnummer
+- Den nye navnelappen du ønsker å bruke
 
 Vi vil sørge for å oppdatere ringeklokken i henhold til dine instruksjoner.
 
-![brannverninnstruks](/docs/public/brannverninstruks.png "brannverninnstruks")
+![brannverninnstruks](/media/brannverninstruks.png "brannverninnstruks")
 
 ## Husordensregler
 

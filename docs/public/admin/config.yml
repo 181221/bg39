@@ -3,7 +3,7 @@ backend:
   repo: 181221/bg39
   branch: main
 media_folder: "/docs/public/media"
-public_folder: "/docs/public"
+public_folder: "/media"
 publish_mode: editorial_workflow
 collections:
   - label: "Home"
