@@ -28,18 +28,29 @@ export default defineConfig({
     },
     nav: [
       { text: "Hjem", link: "/" },
-      { text: "Beboerguide", link: "/innlegg/ny-beboer.md" },
-      { text: "Husordensregler og vedtekter", link: "/innlegg/ordenogvedtekter.md" },
+      { text: "Beboerguide", link: "/beboerguide/ny-beboer.md" },
+      { text: "Kontakt", link: "/kontakt.md" },
     ],
 
     sidebar: [
       {
         text: "Beboerguide",
-        items: [{ text: "Ny beboer", link: "/innlegg/ny-beboer.md" }],
+        items: [
+          { text: "Ny beboer", link: "/beboerguide/ny-beboer.md" },
+          { text: "Branninstruks", link: "/beboerguide/branninstruks.md" },
+          { text: "Avfall og søppel", link: "/beboerguide/avfall-og-søppel.md" },
+        ],
       },
       {
         text: "Husordensregler og vedtekter",
-        items: [{ text: "Husordensregler", link: "/innlegg/ordenogvedtekter" }],
+        items: [
+          { text: "Husordensregler", link: "/beboerguide/husordensregler.md" },
+          { text: "Vedtekter", link: "/beboerguide/vedtekter.md" },
+        ],
+      },
+      {
+        text: "Vaktmester",
+        items: [{ text: "Vaktmester", link: "/beboerguide/vaktmester.md" }],
       },
     ],
   },
