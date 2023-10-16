@@ -29,8 +29,8 @@ export default defineConfig({
     nav: [
       { text: "Hjem", link: "/" },
       { text: "Beboerguide", link: "/beboerguide/ny-beboer.md" },
-      { text: "Kontakt", link: "/kontakt.md" },
       { text: "Aktuelt", link: "/aktuelt/index.md" },
+      { text: "Kontakt", link: "/kontakt.md" },
     ],
 
     sidebar: [
