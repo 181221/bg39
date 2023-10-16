@@ -9,8 +9,8 @@ collections:
   - label: "Home"
     name: "home"
     files:
-      - label: "Homepage"
-        name: "homepage"
+      - label: "Hovedside"
+        name: "hovedside"
         file: "docs/index.md"
         delete: false
         fields:
