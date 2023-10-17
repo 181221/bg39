@@ -3,13 +3,13 @@ title: Velkommen til BG39
 description: sameiet
 ---
 
-# Velkommen til \[Sameiets Navn]
+# Velkommen til Bjerregaards gate 39
 
-Vi ønsker deg hjertelig velkommen som ny beboer i \[Sameiets Navn]. For å hjelpe deg med å tilpasse deg raskt og enkelt, har vi satt sammen noen nyttige opplysninger og retningslinjer.
+Vi ønsker deg hjertelig velkommen som ny beboer. For å hjelpe deg med å tilpasse deg raskt og enkelt, har vi satt sammen noen nyttige opplysninger og retningslinjer.
 
 ## Nøkkelsystem og Tilgang
 
-Vi bruker et nøkkelsystem kalt "Unlock" for å gi tilgang til utgangsdører, boder og sykkelboder. For å få tilgang til disse områdene, må du ta kontakt med styret. Du kan nå oss via e-post på \[styrets e-postadresse] eller telefon på \[styrets telefonnummer]. Vi vil hjelpe deg med å bestille nødvendig tilgang.
+Vi bruker et nøkkelsystem kalt "Unlock" for å gi tilgang til utgangsdører, boder og sykkelboder. For å få tilgang til disse områdene, må du ta kontakt med styret. Du kan nå oss via e-post på [styrets e-postadresse]. Vi vil hjelpe deg med å bestille nødvendig tilgang.
 
 ## Endring av Navnelapp på Ringeklokken
 

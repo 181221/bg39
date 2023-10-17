@@ -17,6 +17,6 @@ features:
     icon: 📜
   - title: Kontaktinformasjon og viktige ressurser
     details: Trenger du hjelp eller har spørsmål? Her finner du kontaktinformasjonen til sameiets styre
-    link: /beboerguide/kontakt
+    link: /kontakt
     icon: 📞
 ---
