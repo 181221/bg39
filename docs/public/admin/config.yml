@@ -28,9 +28,9 @@ collections:
               - { label: "Details", name: "details", widget: "string" }
           - { label: "Footer", name: "footer", widget: "string", required: false }
           - { label: "Body", name: body, widget: markdown, required: false }
-  - label: "Innlegg"
-    name: "innlegg"
-    folder: "docs/innlegg"
+  - label: "Beboerguide"
+    name: "beboerguide"
+    folder: "docs/beboerguide"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
