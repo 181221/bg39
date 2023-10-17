@@ -30,6 +30,7 @@ export default defineConfig({
       { text: "Hjem", link: "/" },
       { text: "Beboerguide", link: "/beboerguide/ny-beboer.md" },
       { text: "Aktuelt", link: "/aktuelt/index.md" },
+      { text: "For Vaktmester", link: "/for-vaktmester.md" },
       { text: "Kontakt", link: "/kontakt.md" },
     ],
 

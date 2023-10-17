@@ -1,5 +1,6 @@
 ---
 title: Kontakt
+layout: doc
 ---
 
 # Kontakt Oss

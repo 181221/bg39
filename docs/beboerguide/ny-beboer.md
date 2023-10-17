@@ -21,8 +21,6 @@ Hvis du trenger å endre navnelappen på ringeklokken, må du også kontakte sty
 
 Vi vil sørge for å oppdatere ringeklokken i henhold til dine instruksjoner.
 
-![brannverninnstruks](/media/brannverninstruks.png "brannverninnstruks")
-
 ## Husordensregler
 
 Det er viktig at alle beboere følger sameiets husordensregler for å skape et hyggelig og trivelig bofellesskap. Du finner en kopi av husordensreglene på sameiets nettside eller ved å kontakte styret. Vi oppfordrer deg til å lese og forstå disse reglene grundig og følge dem til enhver tid.
