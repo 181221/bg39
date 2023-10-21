@@ -1,3 +1,8 @@
+---
+title: HMS - Helse, miljø og sikkerhet
+description: HMS - Helse, miljø og sikkerhet
+---
+
 # HMS - Helse, miljø og sikkerhet
 
 ## Generelt om HMS?
