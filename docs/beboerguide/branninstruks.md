@@ -1,14 +1,8 @@
 ---
-title: Brannverninnstruks
-description: brannverninnstruks
+title: Brannverninstruks
+description: Brannverninstruks
 ---
 
 # Branninstruks
 
 ![brannverninnstruks](/media/brannverninstruks.png "brannverninnstruks")
-
-## Røykvarsler
-
-## Brannslokkingsutstyr
-
-## Rømningsveier

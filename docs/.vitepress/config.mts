@@ -3,12 +3,29 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "BG39",
-  description: "BG39 nettside",
+  description:
+    "Velkommen til Sameiet i Bjerregaards gate 39. På vår nettside finner du informasjon om sameiet, våre tjenester, og viktig informasjon for beboere. Vi jobber for å skape et trygt og trivelig bomiljø. Utforsk våre ressurser og hold deg oppdatert om fellesprosjekter og arrangementer. Sammen gjør vi sameiet til et flott sted å bo.",
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["meta", { property: "og:title", content: "BG39" }],
+    ["meta", { property: "og:image", content: "https://www.bg39.no/favicon.ico" }],
+    [
+      "meta",
+      {
+        name: "keywords",
+        content: "BG39, bjerregaardsgate39, bjerregaards gate 39, sameiet bjerregaards gate 39, Sameiet Bjerregaardsgt. 39",
+      },
+    ],
+    ["meta", { name: "author", content: "Styret" }],
+  ],
   locales: {
     root: {
       lang: "no-NO", // Norwegian Bokmål
       label: "Norsk",
     },
+  },
+  sitemap: {
+    hostname: "https://www.bg39.no",
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -29,8 +46,6 @@ export default defineConfig({
     nav: [
       { text: "Hjem", link: "/" },
       { text: "Beboerguide", link: "/beboerguide/ny-beboer.md" },
-      { text: "Aktuelt", link: "/aktuelt/index.md" },
-      { text: "For Vaktmester", link: "/for-vaktmester.md" },
       { text: "Kontakt", link: "/kontakt.md" },
     ],
 
@@ -39,8 +54,8 @@ export default defineConfig({
         text: "Beboerguide",
         items: [
           { text: "Ny beboer", link: "/beboerguide/ny-beboer.md" },
-          { text: "Branninstruks", link: "/beboerguide/branninstruks.md" },
           { text: "Avfall og søppel", link: "/beboerguide/avfall-og-søppel.md" },
+          { text: "Fyring og varmtvann", link: "/beboerguide/fyring-og-varmtvann.md" },
         ],
       },
       {
@@ -51,8 +66,12 @@ export default defineConfig({
         ],
       },
       {
-        text: "Vaktmester",
-        items: [{ text: "Vaktmester", link: "/beboerguide/vaktmester.md" }],
+        text: "HMS",
+        items: [
+          { text: "Brannvern", link: "/beboerguide/brannvern.md" },
+          { text: "Branninstruks", link: "/beboerguide/branninstruks.md" },
+          { text: "Generelt om HMS", link: "/beboerguide/hms.md" },
+        ],
       },
     ],
   },
