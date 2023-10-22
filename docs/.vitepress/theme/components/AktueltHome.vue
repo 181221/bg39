@@ -11,6 +11,7 @@ import { data as posts } from "../aktuelt.post.data";
       >
         Aktuelt
       </h1>
+      <p>Her får du fortløpende oppdateringer om aktivitetene og hendelsene i sameiet.</p>
     </div>
     <div class="grid gap-6 px-10 py-2 lg:grid-cols-2">
       <template v-for="post of posts" :key="post.url">

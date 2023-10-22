@@ -1,18 +1,19 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "BG39",
+  title: "Sameiet",
+  titleTemplate: "BG 39",
   description:
     "Velkommen til Sameiet i Bjerregaards gate 39. På vår nettside finner du informasjon om sameiet, våre tjenester, og viktig informasjon for beboere. Vi jobber for å skape et trygt og trivelig bomiljø. Utforsk våre ressurser og hold deg oppdatert om fellesprosjekter og arrangementer. Sammen gjør vi sameiet til et flott sted å bo.",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
-    ["meta", { property: "og:title", content: "BG39" }],
+    ["meta", { property: "og:title", content: "Sameiet - BG39" }],
     ["meta", { property: "og:image", content: "https://www.bg39.no/favicon.ico" }],
     [
       "meta",
       {
         name: "keywords",
-        content: "BG39, bjerregaardsgate39, bjerregaards gate 39, sameiet bjerregaards gate 39, Sameiet Bjerregaardsgt. 39",
+        content: "BG39, BG 39, bjerregaardsgate39, bjerregaards gate 39, sameiet bjerregaards gate 39, Sameiet Bjerregaardsgt. 39",
       },
     ],
     ["meta", { name: "author", content: "Styret" }],
@@ -30,6 +31,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     sidebarMenuLabel: "Meny",
     returnToTopLabel: "Gå til toppen",
+    darkModeSwitchLabel: "Utseende",
     search: {
       provider: "local",
       options: {
@@ -58,7 +60,7 @@ export default defineConfig({
     nav: [
       { text: "Hjem", link: "/" },
       { text: "Beboerguide", link: "/beboerguide/ny-beboer" },
-      { text: "Aktuelt", link: "/aktuelt" },
+      { text: "Aktuelt", link: "/aktuelt/index" },
       { text: "Kontakt", link: "/kontakt" },
     ],
 

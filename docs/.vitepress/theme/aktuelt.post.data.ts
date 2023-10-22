@@ -16,7 +16,7 @@ export default createContentLoader(pattern, {
         title: frontmatter.title,
         author: frontmatter.author ?? "Styret",
         url,
-        excerpt,
+        excerpt: frontmatter.utdrag,
         date: formatDate(frontmatter.date),
       }))
       .sort((a, b) => b.date.time - a.date.time);
