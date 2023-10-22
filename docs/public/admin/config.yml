@@ -34,7 +34,6 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Meta description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - label: "Aktuelt"
@@ -44,4 +43,4 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Utrag", name: "utdrag", widget: "text" }

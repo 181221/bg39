@@ -8,5 +8,5 @@ export interface Post {
     formatted: string;
     since: string;
   };
-  excerpt: string | undefined;
+  utdrag: string | undefined;
 }
