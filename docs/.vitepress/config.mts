@@ -8,12 +8,15 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     ["meta", { property: "og:title", content: "Sameiet - BG39" }],
-    ["meta", { property: "og:image", content: "https://www.bg39.no/favicon.ico" }],
+    ["meta", { property: "og:url", content: "https://www.bg39.no" }],
+    ["meta", { property: "og:image", content: "https://www.bg39.no/husikon.svg" }],
+    ["meta", { property: "og:image:width", content: "1200" }],
+    ["meta", { property: "og:image:height", content: "630" }],
     [
       "meta",
       {
         name: "keywords",
-        content: "BG39, BG 39, bjerregaardsgate39, bjerregaards gate 39, sameiet bjerregaards gate 39, Sameiet Bjerregaardsgt. 39",
+        content: "BG39, BG 39, bjerregaardsgate39, bjerregaards gate 39, sameiet bjerregaards gate 39, Sameiet Bjerregaardsgt. 39, sameie",
       },
     ],
     ["meta", { name: "author", content: "Styret" }],
@@ -69,7 +72,7 @@ export default defineConfig({
         text: "Beboerguide",
         items: [
           { text: "Ny beboer", link: "/beboerguide/ny-beboer" },
-          { text: "Avfall og søppel", link: "/beboerguide/avfall-og-søppel" },
+          { text: "Avfall og søppel", link: "/beboerguide/avfall-og-soppel" },
           { text: "Fyring og varmtvann", link: "/beboerguide/fyring-og-varmtvann" },
         ],
       },
