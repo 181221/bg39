@@ -13,10 +13,10 @@ Vi understreker viktigheten av **IKKE** å legge søppel i felles gangarealer, d
 
 ## Riktig Kildesortering
 
-![Sorteringsguide](/media/sorteringsguide.jpg "Sorteringsguide")
+![Sorteringsguide](/media/sorteringsguide.webp "Sorteringsguide")
 
 ## Bøter for Ukorrekt Avfallshåndtering
 
 Vi understreker at Oslo kommune håndhever strenge regler for avfallshåndtering. Ved mottak av en bot fra kommunen på grunn av ukorrekt avfallshåndtering, vil kostnadene knyttet til boten bli belastet de individene som ikke følger retningslinjene for riktig avfallshåndtering.
 
-Vi oppfordrer alle til å ta dette på alvor og unngå å forårsake bøter ved å følge de etablerte retningslinjene for avfallshåndtering.
+Vi oppfordrer alle til å ta dette på alvor og unngå å forårsake bøter ved å følge de etablerte retningslinjene for avfallshåndtering. Se § 3. [Søppel og avfall](./husordensregler)

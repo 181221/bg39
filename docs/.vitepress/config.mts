@@ -1,6 +1,5 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "BG39",
   description:
@@ -31,6 +30,19 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     sidebarMenuLabel: "Meny",
     returnToTopLabel: "Gå til toppen",
+    search: {
+      provider: "local",
+      options: {
+        translations: {
+          modal: {
+            backButtonTitle: "Tilbakestill",
+            noResultsText: "Ingen resultater funnet for",
+            footer: { closeText: "Lukk", navigateText: "Naviger", selectText: "Velg" },
+          },
+          button: { buttonText: "Søk" },
+        },
+      },
+    },
     lastUpdated: {
       text: "Sist oppdatert",
       formatOptions: { year: "numeric", month: "long", day: "numeric" },
@@ -62,6 +74,7 @@ export default defineConfig({
         text: "Husordensregler og vedtekter",
         items: [
           { text: "Husordensregler", link: "/beboerguide/husordensregler.md" },
+          { text: "Vedlikeholdsplikt", link: "/beboerguide/seksjonseierens-vedlikeholdsplikt.md" },
           { text: "Vedtekter", link: "/beboerguide/vedtekter.md" },
         ],
       },

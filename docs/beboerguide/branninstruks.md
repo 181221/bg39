@@ -5,4 +5,4 @@ description: Brannverninstruks
 
 # Branninstruks
 
-![brannverninnstruks](/media/brannverninstruks.png "brannverninnstruks")
+![brannverninnstruks](/media/brannverninstruks.webp "brannverninnstruks")
