@@ -58,6 +58,7 @@ export default defineConfig({
     nav: [
       { text: "Hjem", link: "/" },
       { text: "Beboerguide", link: "/beboerguide/ny-beboer" },
+      { text: "Aktuelt", link: "/aktuelt" },
       { text: "Kontakt", link: "/kontakt" },
     ],
 

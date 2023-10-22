@@ -1,10 +1,10 @@
 import "./css/custom.css";
 import DefaultTheme from "vitepress/theme";
-import ArticleCard from "./components/ArticleCard.vue";
+import AktueltHome from "./components/AktueltHome.vue";
 
 export default {
   extends: DefaultTheme,
   enhanceApp(ctx) {
-    ctx.app.component("ArticleCard", ArticleCard);
+    ctx.app.component("AktueltHome", AktueltHome);
   },
 };

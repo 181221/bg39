@@ -5,9 +5,13 @@
     "tailwindcss": "^3.3.3",
     "vitepress": "1.0.0-rc.21"
   },
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
   }
 }
