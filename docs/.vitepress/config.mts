@@ -57,34 +57,38 @@ export default defineConfig({
     },
     nav: [
       { text: "Hjem", link: "/" },
-      { text: "Beboerguide", link: "/beboerguide/ny-beboer.md" },
-      { text: "Kontakt", link: "/kontakt.md" },
+      { text: "Beboerguide", link: "/beboerguide/ny-beboer" },
+      { text: "Kontakt", link: "/kontakt" },
     ],
 
     sidebar: [
       {
         text: "Beboerguide",
         items: [
-          { text: "Ny beboer", link: "/beboerguide/ny-beboer.md" },
-          { text: "Avfall og søppel", link: "/beboerguide/avfall-og-søppel.md" },
-          { text: "Fyring og varmtvann", link: "/beboerguide/fyring-og-varmtvann.md" },
+          { text: "Ny beboer", link: "/beboerguide/ny-beboer" },
+          { text: "Avfall og søppel", link: "/beboerguide/avfall-og-søppel" },
+          { text: "Fyring og varmtvann", link: "/beboerguide/fyring-og-varmtvann" },
         ],
       },
       {
         text: "Husordensregler og vedtekter",
         items: [
-          { text: "Husordensregler", link: "/beboerguide/husordensregler.md" },
-          { text: "Vedlikeholdsplikt", link: "/beboerguide/seksjonseierens-vedlikeholdsplikt.md" },
-          { text: "Vedtekter", link: "/beboerguide/vedtekter.md" },
+          { text: "Husordensregler", link: "/beboerguide/husordensregler" },
+          { text: "Vedlikeholdsplikt", link: "/beboerguide/seksjonseierens-vedlikeholdsplikt" },
+          { text: "Vedtekter", link: "/beboerguide/vedtekter" },
         ],
       },
       {
         text: "HMS",
         items: [
-          { text: "Brannvern", link: "/beboerguide/brannvern.md" },
-          { text: "Branninstruks", link: "/beboerguide/branninstruks.md" },
-          { text: "Generelt om HMS", link: "/beboerguide/hms.md" },
+          { text: "Brannvern", link: "/beboerguide/brannvern" },
+          { text: "Branninstruks", link: "/beboerguide/branninstruks" },
+          { text: "Generelt om HMS", link: "/beboerguide/hms" },
         ],
+      },
+      {
+        text: "Kontakt",
+        items: [{ text: "Kontaktinformasjon", link: "/kontakt" }],
       },
     ],
   },
