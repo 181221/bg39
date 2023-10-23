@@ -12,6 +12,8 @@ export default defineConfig({
     ["meta", { property: "og:image", content: "https://www.bg39.no/husikon.svg" }],
     ["meta", { property: "og:image:width", content: "1200" }],
     ["meta", { property: "og:image:height", content: "630" }],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:description", content: "Velkommen til Sameiet i Bjerregaards gate 39" }],
     [
       "meta",
       {
@@ -28,7 +30,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: "https://www.bg39.no",
+    hostname: "https://bg39.no",
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
