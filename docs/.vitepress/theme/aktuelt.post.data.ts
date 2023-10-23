@@ -33,6 +33,6 @@ function formatDate(raw: string) {
       month: "long",
       day: "numeric",
     }),
-    since: "Sist oppdatert: " + formatDistance(date, new Date(), { addSuffix: true, locale: nb }),
+    since: "Opprettet for: " + formatDistance(date, new Date(), { addSuffix: true, locale: nb }),
   };
 }
