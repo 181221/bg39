@@ -44,3 +44,11 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Utrag", name: "utdrag", widget: "text" }
+
+  - label: "Kontakt"
+    name: "kontakt"
+    folder: "docs/kontakt"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
