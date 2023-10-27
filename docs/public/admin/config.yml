@@ -51,7 +51,6 @@ collections:
       - label: "Kontakt"
         name: "kontakt"
         file: "docs/kontakt.md"
-           fields:
-             - { label: "Title", name: "title", widget: "string" }
-             - { label: "Body", name: "body", widget: "markdown" }
- 
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
