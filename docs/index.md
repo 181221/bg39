@@ -11,6 +11,10 @@ features:
     details: Vi ønsker alle nye beboere hjertelig velkommen til sameiet. For å hjelpe deg med å komme raskt i gang, har vi samlet nyttig informasjon for deg.
     link: /beboerguide/ny-beboer
     icon: 🏡
+  - title: Aktuelt
+    details: Hold deg oppdatert om sameiets aktiviteter og viktige kunngjøringer her.
+    link: /aktuelt/index
+    icon: 📢
   - title: Viktige dokumenter og regler
     details: Her finner du sameiets offisielle vedtekter og husordensregler. Disse dokumentene gir retningslinjer for sameiets drift og boforhold.
     link: /beboerguide/husordensregler

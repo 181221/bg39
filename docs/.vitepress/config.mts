@@ -7,13 +7,10 @@ export default defineConfig({
     "Velkommen til Sameiet i Bjerregaards gate 39. På vår nettside finner du informasjon om sameiet, våre tjenester, og viktig informasjon for beboere. Vi jobber for å skape et trygt og trivelig bomiljø. Utforsk våre ressurser og hold deg oppdatert om fellesprosjekter og arrangementer. Sammen gjør vi sameiet til et flott sted å bo.",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
-    ["meta", { property: "og:title", content: "Sameiet - BG39" }],
-    ["meta", { property: "og:url", content: "https://www.bg39.no" }],
     ["meta", { property: "og:image", content: "https://www.bg39.no/husikon.svg" }],
     ["meta", { property: "og:image:width", content: "1200" }],
     ["meta", { property: "og:image:height", content: "630" }],
     ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:description", content: "Velkommen til Sameiet i Bjerregaards gate 39" }],
     [
       "meta",
       {
