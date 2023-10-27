@@ -47,8 +47,11 @@ collections:
 
   - label: "Kontakt"
     name: "kontakt"
-    folder: "docs/kontakt"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+    files:
+      - label: "Kontakt"
+        name: "kontakt"
+        file: "docs/kontakt.md"
+           fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Body", name: "body", widget: "markdown" }
+ 
