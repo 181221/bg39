@@ -2,7 +2,6 @@
 title: Kontakt
 layout: doc
 ---
-
 # Kontakt
 
 Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig kontaktinformasjon for å nå oss.
@@ -11,25 +10,26 @@ Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig ko
 
 ### Sameiets Styre
 
-- Anders Krogh (styreleder)
-- Peder Wiig Aalen (styremedlem)
-- Åge-Johan Ellingsen (styremedlem)
+* Anders Krogh (styreleder)
+* Peder Wiig Aalen (styremedlem)
+* Åge-Johan Ellingsen (styremedlem)
+* Andreas Emil (varamedlem)
 
 Ikke nøl med å ta kontakt dersom du lurer på noe. Vi er tilgjengelige på e-post og svarer så raskt som mulig.
 
-- E-post: styret@bg39.no
+* E-post: styret@bg39.no
 
 ### Forvaltningsselskap (Norian)
 
 Vi bruker Norian som forvaltningsselskap og har Signe A. Langestrand som kontaktperson der.
 
-- E-post: signe.a.langestrand@norian.no
+* E-post: signe.a.langestrand@norian.no
 
 ### Vaktmester
 
 Vi bruker Rene Bygårder AS for vaktmester- og trappevaskavtale. Vaktmester kommer annenhver uke.
 
-- E-post: kontakt@renebygarder.no
+* E-post: kontakt@renebygarder.no
 
 Med mindre det er avtalt med styret på forhånd, fakturerer beboere selv for vaktmestertjenester utenom det vanlige.
 
