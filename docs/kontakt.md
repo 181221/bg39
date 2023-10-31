@@ -33,7 +33,7 @@ Vi bruker Rene Bygårder AS for vaktmester- og trappevaskavtale. Vaktmester komm
 
 Med mindre det er avtalt med styret på forhånd, fakturerer beboere selv for vaktmestertjenester utenom det vanlige.
 
-## Følg Oss på Facebook
+### Følg Oss på Facebook
 
 Hold deg oppdatert med sameiets nyheter og arrangementer ved å følge vår [Facebook-side](https://www.facebook.com/groups/1795312797353075/). Vi deler jevnlig oppdateringer og relevant informasjon.
 
