@@ -2,10 +2,7 @@
 title: Fyring og Varmtvann i Sameiet
 description: Praktiske retningslinjer for fyring og varmtvann i sameiet
 ---
-
 # Fyring og varmtvann
-
-## Fyring og Varmtvann
 
 ### Varme og Varmtvann
 
