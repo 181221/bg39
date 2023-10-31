@@ -88,6 +88,7 @@ export default defineConfig({
         items: [
           { text: "Brannvern", link: "/beboerguide/brannvern" },
           { text: "Branninstruks", link: "/beboerguide/branninstruks" },
+          { text: "Elsikkerhet", link: "/beboerguide/elsikkerhet" },
           { text: "Generelt om HMS", link: "/beboerguide/hms" },
         ],
       },
