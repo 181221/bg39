@@ -2,25 +2,35 @@
 title: HMS - Helse, miljø og sikkerhet
 description: HMS - Helse, miljø og sikkerhet
 ---
+# HMS - Helse, Miljø og Sikkerhet
 
-# HMS - Helse, miljø og sikkerhet
 
-## Generelt om HMS?
 
-Boligselskapet er pålagt å drive systematisk helse-, miljø- og sikkerhetsarbeid. Hensikten med dette er å gjennomføre tiltak som skal sikre at HMS-aktiviteter i boligselskaper planlegges, organiseres, utføres og vedlikeholdes i samsvar med helse-, miljø- og sikkerhetslovgivningen.
+**Generelt om HMS**
 
-De viktigste forskriftene for boligselskap omhandler brannvern, elektriske anlegg, lekeplasser og byggherreforskriftene ved bygge- og anleggsarbeider.
 
-Internkontrollforskriften krever at boligselskapet har et system for oppfølging av disse bestemmelsene.
+Boligselskaper må følge helse-, miljø- og sikkerhetslovgivningen. Dette inkluderer brannvern, elektriske anlegg og byggherreforskrifter.
 
-Styreleder er daglig leder i boligselskapet. Det er leder og styrets ansvar å passe på at lover og regler følges, og at selskapet har systematisert og kan dokumentere HMS-arbeidet. Styret har også ansvar for at det regelmessig utøves internkontroll i boligselskapet.
 
-## Hvorfor internkontroll?
 
-Internkontroll skal forebygge skader og ulykker for beboere i boligselskaper og skal verne mot helse- og miljøskader fra produkter, lekeplassutstyr og elektriske anlegg, samt hindre brann og branntilløp.
+**Ansvar og Internkontroll**
 
-## Mål
+Styret og ledelsen i boligselskapet har ansvaret for å sikre at lover og regler følges. Internkontroll skal forebygge skader og ulykker, verne mot helse- og miljøskader, og hindre brann.
 
-I boligselskapet skal det skapes et trivelig og sikkert miljø for alle beboere.
 
-Vi skal ta vare på boligselskapets bygninger og materiell, forhindre belastning på det ytre miljø, og våre valg av produkter og tjenester skal ikke skade beboerne. Disse målene skal nås gjennom stadige forbedringer. Både styret og beboere skal delta aktivt i forbedringsarbeidet.
+
+**Mål**
+
+Målet er å skape et trygt og trivelig miljø for beboerne, ved å ivareta bygninger og miljø. Både styret og beboere skal delta i kontinuerlige forbedringer.
+
+
+
+**Informasjon til Beboere**
+
+Beboere vil motta informasjon om internkontrollprosedyrer via e-post. De blir bedt om å bekrefte at de er kjent med sikkerhetsregler og er oppmerksomme på eventuelle farer eller forbedringsområder.
+
+
+
+**Bruk av Lettstyrt**
+
+For å etterleve kravene i henhold til loven, bruker boligselskapet lettstyrt HMS-modulen.
