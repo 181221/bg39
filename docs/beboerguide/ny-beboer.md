@@ -2,21 +2,20 @@
 title: Velkommen til BG39
 description: sameiet
 ---
-
 # Velkommen til Bjerregaards gate 39
 
 Vi ønsker deg hjertelig velkommen som ny beboer. For å hjelpe deg med å tilpasse deg raskt og enkelt, har vi satt sammen noen nyttige opplysninger og retningslinjer.
 
 ## Nøkkelsystem og Tilgang
 
-Vi bruker et nøkkelsystem kalt "Unlock" for å gi tilgang til utgangsdører, boder og sykkelboder. For å få tilgang til disse områdene, må du ta kontakt med styret. Du kan nå oss via e-post på styret@bg39.no med telefonnummer og bodlokasjon. Vi vil hjelpe deg med å bestille nødvendig tilgang.
+Vi bruker et nøkkelsystem kalt [Unloc](https://www.unloc.app/) for å gi tilgang til utgangsdører, boder og sykkelboder. For å få tilgang til disse områdene, må du ta kontakt med styret. Du kan nå oss via e-post på styret@bg39.no med telefonnummer og bodlokasjon. Vi vil hjelpe deg med å bestille nødvendig tilgang.
 
 ## Endring av Navnelapp på Ringeklokken
 
 Hvis du trenger å endre navnelappen på ringeklokken, må du også kontakte styret. Dette kan gjøres ved å sende en henvendelse til styret@bg39.no med følgende informasjon:
 
-- Leilighetsnummer
-- Det du ønsker skal stå på navnelappen
+* Leilighetsnummer
+* Det du ønsker skal stå på navnelappen
 
 ## Husordensregler
 
