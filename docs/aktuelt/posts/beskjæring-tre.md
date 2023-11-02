@@ -1,5 +1,5 @@
 ---
-title: Beskjæring tre
+title: Trebeskjæring
 date: 2023-11-02T20:14:52.641Z
 utdrag: >-
   Etter anbefaling har vårt tre fått en beskjæring slik at treet ikke forårsaker
