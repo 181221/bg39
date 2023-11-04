@@ -15,7 +15,7 @@ defineProps<{
           {{ post.title }}
         </h2>
       </div>
-      <div class="mb-5" v-html="post.excerpt"></div>
+      <div class="mb-5" style="white-space: pre-line" v-html="post.excerpt"></div>
       <div class="mt-auto">
         <p class="">
           <span class="text-sm">{{ post.date.since }}</span>

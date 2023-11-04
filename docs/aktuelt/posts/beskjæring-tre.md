@@ -9,7 +9,5 @@ utdrag: >-
   dette treet vokste ut mot fortau og veibane.  Videre er det tre buskene
   trimmet og de råtne plantene fjernet. 
 
-
-
   En sertifiert Arborist utført arbeidet og total kostnad : 5000 kr + moms
 ---

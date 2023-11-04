@@ -8,6 +8,12 @@ const pattern = "/aktuelt/posts/**/*.md";
 const data = [] as Post[];
 export { data };
 
+const unionLineBreaks = (utdrag: string) => {
+  let formattedContent = utdrag.replace(/\n/g, "\n\n");
+  formattedContent = formattedContent.replace(/\n\s*\n/g, "\n\n");
+  return formattedContent;
+};
+
 export default createContentLoader(pattern, {
   excerpt: true,
   transform(raw) {
@@ -16,7 +22,7 @@ export default createContentLoader(pattern, {
         title: frontmatter.title,
         author: frontmatter.author ?? "Styret",
         url,
-        excerpt: frontmatter.utdrag,
+        excerpt: unionLineBreaks(frontmatter.utdrag),
         date: formatDate(frontmatter.date),
       }))
       .sort((a, b) => b.date.time - a.date.time);
