@@ -25,14 +25,11 @@ export default createContentLoader(pattern, {
 
 function formatDate(raw: string) {
   const date = new Date(raw);
+  const withoutTime = new Date(date.toISOString().split("T")[0]);
   return {
-    raw: date.toISOString().split("T")[0],
+    raw: withoutTime,
     time: +date,
-    formatted: date.toLocaleDateString("nb-NO", {
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    }),
-    since: "Opprettet: " + formatDistance(date, new Date(), { addSuffix: true, locale: nb }),
+    formatted: withoutTime.toLocaleDateString("nb-NO"),
+    since: "Opprettet: " + formatDistance(withoutTime, new Date(), { addSuffix: true, locale: nb }),
   };
 }
