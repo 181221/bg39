@@ -1,16 +1,17 @@
 ---
-title: Fyring og Varmtvann i Sameiet
+title: Fyring og varmtvann i sameiet
 description: Praktiske retningslinjer for fyring og varmtvann i sameiet
 ---
+
 # Fyring og varmtvann
 
-### Varme og Varmtvann
+### Varme og varmtvann
 
 Bjerregaards gate 39 har fjernvarme fra Hafslund Oslo Celsio, og alle leilighetene har varmtvann og oppvarming inkludert i felleskostnadene.
 
 **MERK:** Alt arbeid som berører radiatoranlegget skal varsles og godkjennes av styret.
 
-### Lufting av Radiatorer
+### Lufting av radiatorer
 
 Slik lufter du radiatorene:
 

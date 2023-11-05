@@ -7,7 +7,8 @@ description: Husordensregler
 
 _Vedtatt på sameiermøte den 24.03.2015._
 
-**§ 1. Alminnelige ordensregler og ansvar.**
+### § 1. Alminnelige ordensregler og ansvar
+
 Følgende husordensregler har til hensikt å skape gode boforhold i sameiet. Utover
 reglene henstilles alle beboere til å ta vare på hverandre, og ta ansvar for å bidra til et
 rent og ryddig sameie.
@@ -20,7 +21,8 @@ disse reglene.
 Ved vesentlig mislighold av ordensreglementet kan styret iverksette tvangssalg og/eller
 utkastelse.
 
-**§ 2. Regler om ro i seksjonene.**
+### § 2. Regler om ro i seksjonene
+
 Det skal være ro i boenhetene fra klokken 23:00 til klokken 07:00. Musikk og annen
 støyende virksomhet, som oppussing og lignende, skal ikke finne sted etter klokken
 21:00 på hverdager og ikke etter klokken 19:00 på lørdager. Støyende virksomhet skal
@@ -33,7 +35,8 @@ styret.
 Ved fest og andre sammenkomster skal det henges opp synlig nabovarsel i god tid ved
 inngangspartiet.
 
-**§ 3. Søppel og avfall.**
+### § 3. Søppel og avfall
+
 Alt av søppel og avfall skal være tilstrekkelig pakket inn og kastes i søppelcontainer på
 utsiden av bygningen. Papp og papir skal brettes og legges i egen container bak
 søppelhuset. Det skal ikke under noen omstendighet hensettes noen form for avfall ved
@@ -45,7 +48,8 @@ ikke beregnet for denne type avfall. Dersom en boenhet plasserer slikt avfall i
 fellesområdene eller i området rundt søppelhuset vil dette bli fjernet for eiers regning.
 Beboere henstilles også til å etterkomme kommunale krav om avfallshåndtering.
 
-**§ 4. Bruk av fellesområde.**
+### § 4. Bruk av fellesområde
+
 Med fellesområdet menes alt areal i sameiet, med unntak av boenheter og tildelte boder
 tydelig merket med leilighetsnummer.
 Alt av gjenstander (møbler, oppussingsavfall, kasser, barnevogner, sykler, kjøretøy og
@@ -72,7 +76,8 @@ antenner eller paraboler utenfor egen leilighet eller på taket.
 Alle beboere plikter og snarest melde ifra til styret om lekkasjer, skader eller feil som
 oppdages i bygningens fellesområder.
 
-**§ 5. Bruk av eget boareal.**
+### § 5. Bruk av eget boareal
+
 Den enkelte sameier er til enhver tid ansvarlig for bruk og vedlikehold av egen leilighet
 på en slik måte at ikke skjødesløshet og manglende vedlikehold forårsaker skader eller
 verdiforringelse på andre beboeres leiligheter.
@@ -83,7 +88,8 @@ skader på andre boenheter.
 Beboere med balkong må sørge for å holde avløsslukene rene, slik at det er fritt avløp for
 vann.
 
-**§ 6. Utleie.**
+### § 6. Utleie
+
 Ved utleie er eier av boenheten ansvarlig for at leietaker kjenner til og etterlever
 gjeldende husordensregler. Sameier er sammen med leietaker fullt ansvarlig overfor
 sameiet for ethvert brudd på husordensreglene og for enhver skade eller ulempe som
@@ -94,22 +100,26 @@ hovedleietaker og leietaker fullt ansvarlig overfor sameiet for ethvert brudd p�
 husordensreglene og for enhver skade eller ulempe som leietakere påfører sameiet eller
 andre beboere.
 
-**§ 7. Merking av boder, postkasser og ringeklokker.**
+### § 7. Merking av boder, postkasser og ringeklokker
+
 Ringeklokke og postkasser skal merkes med beboers navn. Den enkelte boenhet
 bestiller selv skilt til ringeklokke hos den leverandør sameiet har avtale med. Private
 boder skal være synlig merket med leilighetsnummer.
 
-**§ 8. Husdyrhold**
+### § 8. Husdyrhold
+
 Husdyrhold tillates etter spesiell avtale med styret. Ved vedvarende sjenanse overfor
 naboene, har styret fullmakt til etter eget skjønn å avgjøre i det enkelte tilfellet om
 husdyret kan beholdes. Styret kan forlange eventuell fjerning av husdyr med en frist på
 3 måneder etter avsendelse av skriftlig varsel til beboer.
 
-**§ 9. Dugnadsarbeid**
+### § 9. Dugnadsarbeid
+
 Hver boenhet oppfordres til å delta på dugnader dugnadsarbeid når det inviteres til
 dugnad.
 
-**§ 10. Endringer**
+### § 10. Endringer
+
 Styret kan når som helst, og med øyeblikkelig virkning, foreta endringer eller tilføyelser
 i ordensreglementet dersom dette etter forholdet skulle anses nødvendig.
 Ved endring av ordensreglementet skal beboerne i sameiet gis skriftlig varsel.
