@@ -1,6 +1,6 @@
 ---
 title: Brannvern
-description: brannvern
+description: Sikkerhet i hjemmet er av ytterste viktighet. Brannvern er en kritisk del av denne sikkerheten. Vi oppfordrer alle beboere til å følge retningslinjene nøye for å sikre et trygt bomiljø
 ---
 
 # Brannvern

@@ -1,6 +1,6 @@
 ---
-title: Velkommen til BG39
-description: sameiet
+title: Velkommen til sameiet
+description: Velkommen til Bjerregaards gate 39. Vi ønsker deg hjertelig velkommen som ny beboer. For å hjelpe deg med å tilpasse deg raskt og enkelt, har vi satt sammen noen nyttige opplysninger og retningslinjer
 ---
 
 # Velkommen til Bjerregaards gate 39

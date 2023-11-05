@@ -1,6 +1,6 @@
 ---
 title: Elsikkerhet i hjemmet
-description: Elektrisk vedlikehold i hjemmet
+description: Når det kommer til vedlikehold av strøm i hjemmet, er det viktig å ta ansvar. Her er noen viktige tips og ressurser som kan hjelpe deg med å sørge for at ditt elektriske anlegg er i god stand
 ---
 
 # Sikkerhetsrutiner for elektrisitet i hjemmet

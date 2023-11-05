@@ -1,6 +1,6 @@
 ---
 title: Husordensregler
-description: Husordensregler
+description: Husordensregler for sameiet
 ---
 
 # Husordensregler for Sameiet Bjerregaardsgate 39

@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 layout: doc
+description: Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig kontaktinformasjon for å nå oss
 ---
 
 # Kontakt

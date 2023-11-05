@@ -1,6 +1,6 @@
 ---
 title: Vedtekter
-description: Vedtekter
+description: Vedtekter for sameiet Bjerregaards gate 39
 ---
 
 # Vedtekter

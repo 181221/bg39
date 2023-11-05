@@ -1,6 +1,6 @@
 ---
 title: Håndtering av avfall og søppel i sameiet
-description: Informasjon om riktig avfallshåndtering i sameiet
+description: Alle beboere i sameiet har et ansvar for å bidra til en vellykket avfallshåndtering. Dette innebærer å følge kildesortering, og sørge for at spesialavfall håndteres forsvarlig
 ---
 
 # Ansvarlig avfallshåndtering i sameiet
