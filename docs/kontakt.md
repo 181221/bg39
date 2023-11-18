@@ -1,9 +1,9 @@
 ---
 title: Kontakt
 layout: doc
-description: Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig kontaktinformasjon for å nå oss
+description: Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all
+  nødvendig kontaktinformasjon for å nå oss
 ---
-
 # Kontakt
 
 Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig kontaktinformasjon for å nå oss.
@@ -12,28 +12,32 @@ Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig ko
 
 ### Sameiets styre
 
-- Anders Krogh (styreleder)
-- Peder Wiig Aalen (styremedlem)
-- Åge-Johan Ellingsen (styremedlem)
-- Andreas Emil (varamedlem)
+* Anders Krogh (styreleder)
+* Peder Wiig Aalen (styremedlem)
+* Åge-Johan Ellingsen (styremedlem)
+* Andreas Emil (varamedlem)
 
 Ikke nøl med å ta kontakt dersom du lurer på noe. Vi er tilgjengelige på e-post og svarer så raskt som mulig.
 
-- E-post: styret@bg39.no
+* E-post: styret@bg39.no
 
 ### Forvaltningsselskap (Norian)
 
 Vi bruker Norian som forvaltningsselskap og har Signe A. Langestrand som kontaktperson der.
 
-- E-post: signe.a.langestrand@norian.no
+* E-post: signe.a.langestrand@norian.no
 
 ### Vaktmester
 
 Vi bruker Rene Bygårder AS for vaktmester- og trappevaskavtale. Vaktmester kommer annenhver uke.
 
-- E-post: kontakt@renebygarder.no
+* E-post: kontakt@renebygarder.no
 
 Med mindre det er avtalt med styret på forhånd, fakturerer beboere selv for vaktmestertjenester utenom det vanlige.
+
+### R﻿ørlegger
+
+Sameiet har tilgang til en dyktig rørlegger, Philip Sundgot, som driver Pilestredet Rørservice. Han kan kontaktes på telefonnummer +47 40 05 64 78. Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
 
 ### Følg oss på facebook
 
