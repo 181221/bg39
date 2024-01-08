@@ -13,8 +13,8 @@ Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig ko
 
 ### Sameiets styre
 
-- Anders Krogh (styreleder)
-- Peder Wiig Aalen (styremedlem)
+- ~~Anders Krogh (styreleder)~~
+- Peder Wiig Aalen (fungerende styreleder)
 - Åge-Johan Ellingsen (styremedlem)
 - Andreas Emil (varamedlem)
 
@@ -38,7 +38,11 @@ Med mindre det er avtalt med styret på forhånd, fakturerer beboere selv for va
 
 ### Rørlegger
 
-Sameiet har tilgang til en dyktig rørlegger, Philip Sundgot, som driver Pilestredet Rørservice. Han kan kontaktes på telefonnummer [+47 40 05 64 78](tel:+4740056478). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
+Sameiet har tilgang til en dyktig rørlegger, Philip Sundgot, som driver Pilestredet Rørservice. Han kan kontaktes på telefonnummer [+47 400 56 478](tel:+4740056478). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
+
+### Elektriker
+
+Sameiet har tilgang til en dyktig autorisert el-installatør, Henrik Stang, fra Stang Entreprenør AS. Han kan kontaktes på telefonnummer [+47 928 32 994](tel:+4792832994), og epost [post@henrikstang.no](mailto:post@henrikstang.no). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
 
 ### Følg oss på facebook
 
