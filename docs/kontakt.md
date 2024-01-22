@@ -37,11 +37,6 @@ Vi bruker Rene Bygårder AS for vaktmester- og trappevaskavtale. Vaktmester komm
 Med mindre det er avtalt med styret på forhånd, fakturerer beboere selv for vaktmestertjenester utenom det vanlige.
 
 ### Rørlegger
-+﻿47 400 56 478
-
-+﻿4740056478
-
-+﻿47 40 05 64 78
 
 Sameiet har tilgang til en dyktig rørlegger, Philip Sundgot, som driver Pilestredet Rørservice. Han kan kontaktes på telefonnummer [+47 400 56 478](tel:+4740056478). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
 
