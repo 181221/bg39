@@ -1,7 +1,7 @@
 ---
 title: Forbedring av elektrisk anlegg og lysoppgradering
 date: 2024-01-10T16:58:20.790Z
-utdrag: >+
+utdrag: >-
   I uke 5 vil elektriker starte med utbedring av elektrisk anlegg og utskiftning
   av lys i boder.
 
