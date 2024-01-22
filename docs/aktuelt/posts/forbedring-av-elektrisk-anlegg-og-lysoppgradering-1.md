@@ -6,5 +6,5 @@ utdrag: >-
   av lys i boder.
 
 
-  Elektriker vil også kunne utbedre avvik til en god pris, da han allerede er på plass. Så har du avvik fra Eltilsynet, kan du elektrikeren og få dette fikset i uke 5.
+  Elektriker vil også kunne utbedre avvik til en god pris, da han allerede er på plass. Så har du avvik fra Eltilsynet, kan du kontakte elektrikeren og få dette fikset i uke 5. Kontaktinformasjonen hans finner du på bg39.no/kontakt
 ---
