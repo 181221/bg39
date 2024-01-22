@@ -31,11 +31,11 @@ export default createContentLoader(pattern, {
 
 function formatDate(raw: string) {
   const date = new Date(raw);
-  const withoutTime = new Date(date.toISOString().split("T")[0]);
+  const withoutTime = new Date(date.toISOString());
   return {
     raw: withoutTime,
     time: +date,
     formatted: withoutTime.toLocaleDateString("nb-NO"),
-    since: "Opprettet: " + formatDistance(withoutTime, new Date(), { addSuffix: true, locale: nb }),
+    since: formatDistance(withoutTime, new Date(), { addSuffix: true, locale: nb }),
   };
 }
