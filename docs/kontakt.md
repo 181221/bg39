@@ -26,23 +26,28 @@ Ikke nøl med å ta kontakt dersom du lurer på noe. Vi er tilgjengelige på e-p
 
 Vi bruker Norian som forvaltningsselskap og har Signe A. Langestrand som kontaktperson der.
 
-- E-post: [signe.a.langestrand@norian.no](﻿mailto:signe.a.langestrand@norian.no)
+- E-post: signe.a.langestrand@norian.no
 
 ### Vaktmester
 
 Vi bruker Rene Bygårder AS for vaktmester- og trappevaskavtale. Vaktmester kommer annenhver uke.
 
-- E-post: [kontakt@renebygarder.no](﻿mailto:kontakt@renebygarder.no)
+- E-post: kontakt@renebygarder.no
 
 Med mindre det er avtalt med styret på forhånd, fakturerer beboere selv for vaktmestertjenester utenom det vanlige.
 
 ### Rørlegger
++﻿47 400 56 478
+
++﻿4740056478
+
++﻿47 40 05 64 78
 
 Sameiet har tilgang til en dyktig rørlegger, Philip Sundgot, som driver Pilestredet Rørservice. Han kan kontaktes på telefonnummer [+47 400 56 478](tel:+4740056478). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
 
 ### Elektriker
 
-Sameiet har tilgang til en dyktig autorisert el-installatør, Henrik Stang, fra Stang Entreprenør AS. Han kan kontaktes på telefonnummer [+47 928 32 994](tel:+4792832994), og epost [post@henrikstang.no](mailto:post@henrikstang.no). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
+Sameiet har tilgang til en dyktig autorisert el-installatør, Henrik Stang, fra Stang Entreprenør AS. Han kan kontaktes på telefonnummer [+47 928 32 994](tel:+4792832994), og epost post@henrikstang.no. Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
 
 ### Følg oss på facebook
 
