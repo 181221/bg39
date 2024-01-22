@@ -42,7 +42,7 @@ Sameiet har tilgang til en dyktig rørlegger, Philip Sundgot, som driver Pilestr
 
 ### Elektriker
 
-Sameiet har tilgang til en dyktig autorisert el-installatør, Henrik Stang, fra Stang Entreprenør AS. Han kan kontaktes på telefonnummer [+47 928 32 994](tel:+4792832994), og epost [post@henrikstang.no](mailto:post@henrikstang.no). Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
+Sameiet har tilgang til en dyktig autorisert el-installatør, Henrik Stang, fra Stang Entreprenør AS. Han kan kontaktes på telefonnummer [+47 928 32 994](tel:+4792832994), og epost post@henrikstang.no. Oppgi at dere er fra sameiet for å få en rabattert pris på jobben.
 
 ### Følg oss på facebook
 
