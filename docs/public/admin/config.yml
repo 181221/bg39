@@ -38,7 +38,7 @@ collections:
 
   - label: "Aktuelt"
     name: "aktuelt"
-    folder: "docs/aktuelt/posts"
+    folder: "docs/.vitepress/aktuelt/posts"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }

@@ -3,7 +3,7 @@ import { formatDistance } from "date-fns";
 import { nb } from "date-fns/locale";
 import type { Post } from "./theme-types";
 
-const pattern = "/aktuelt/posts/**/*.md";
+const pattern = "/.vitepress/aktuelt/posts/**/*.md";
 
 const data = [] as Post[];
 export { data };
