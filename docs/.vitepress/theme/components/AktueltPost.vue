@@ -7,7 +7,7 @@ defineProps<{
 
 <template>
   <article
-    class="rounded-lg border border-[color:var(--vp-c-brand-1)] p-6 dark:border-[color:var(--vp-c-brand-dark)] transition transform hover:shadow-lg"
+    class="rounded-lg border border-[color:var(--vp-c-brand-1)] p-6 dark:border-[color:var(--vp-c-brand-dark)] transition transform hover:shadow-lg dark:hover:[color:var(--vp-c-brand-1)]"
   >
     <div class="flex flex-col h-full">
       <div>
