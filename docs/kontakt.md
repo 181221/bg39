@@ -13,9 +13,9 @@ Velkommen til Bjerregaards gate 39s kontaktside. Her finner du all nødvendig ko
 
 ### Sameiets styre
 
-- ~~Anders Krogh (styreleder)~~
-- Peder Wiig Aalen (fungerende styreleder)
-- Åge-Johan Ellingsen (styremedlem)
+- Peder Wiig Aalen (styreleder)
+- Julie Holter-Sørensen (styremedlem)
+- Siri Faremo Haukvik (styremedlem)
 - Andreas Emil (varamedlem)
 
 Ikke nøl med å ta kontakt dersom du lurer på noe. Vi er tilgjengelige på e-post og svarer så raskt som mulig.
