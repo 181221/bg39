@@ -84,6 +84,12 @@ export default defineConfig({
         ],
       },
       {
+        text: "Vedlikehold og rapporter",
+        items: [
+          { text: "Vedlikeholdsrapport", link: "/beboerguide/vedlikeholdsrapport" },
+        ],
+      },
+      {
         text: "HMS",
         items: [
           { text: "Brannvern", link: "/beboerguide/brannvern" },
