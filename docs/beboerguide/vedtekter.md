@@ -2,7 +2,6 @@
 title: Vedtekter
 description: Vedtekter for sameiet Bjerregaards gate 39
 ---
-
 # Vedtekter
 
 ## VEDTEKTER FOR SAMEIET BJERREGAARDSGATE 39
@@ -402,6 +401,34 @@ Dersom sameiet har statsautorisert eller registrert revisor, gjelder bestemmelse
 
 Endringer i sameiets vedtekter kan besluttes av årsmøtet med minst to tredjedeler av de avgitte stemmer, med mindre eierseksjonsloven stiller strengere krav.
 
-**12. FORHOLDET TIL LOV OM EIERSEKSJONER**
+
+
+## 1﻿2. OVERVÅKINGSKAMERAER
+
+Styret gis tillatelse til å installere og benytte overvåkingskameraer på sameiets fellesområder,
+herunder tak og inngangsparti, med formål om å ivareta sikkerhet og forhindre uønsket
+adgang.
+
+
+Overvåkningen skal kun dekke fellesområder, og kameraene skal plasseres slik at de ikke
+fanger opp private områder eller leilighetenes innganger utover det som er nødvendig for
+sikkerhet.
+
+
+Videoopptak skal lagres i henhold til gjeldende lover og forskrifter om personvern, og kun
+benyttes for å håndtere sikkerhetshendelser. Styret har ansvar for at opptakene oppbevares
+
+
+forsvarlig og slettes etter maksimalt 90 dager, med mindre opptakene er nødvendige for
+videre etterforskning.
+
+
+Sameiets beboere skal informeres om kameraovervåkningen gjennom oppslag på tydelige
+steder, samt i sameiets årsmelding eller andre relevante dokumenter.
+Denne vedtektsendringen gjelder fra dato for vedtakelse i sameiets årsmøte.
+
+
+
+## **13. FORHOLDET TIL LOV OM EIERSEKSJONER**
 
 For så vidt ikke annet følger av disse vedtekter, gjelder reglene i lov om eierseksjoner av 16. juni 2017 nr. 65.
